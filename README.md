@@ -1,3 +1,3 @@
-# MarkDown_File_For_Study
+#IThis repo is for my personal study all of the knowledge 
 
-It will contain all of the markdown files and knowledge that I learn and easy for further review
+
